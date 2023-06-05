@@ -191,7 +191,7 @@ requires PIN verification. You collect the PIN from the user and call the follow
     }
 ```
 
-Suppose the return is `false`. Maybe the user typed `Paris167, but the PIN is really
+Suppose the return is `false`. Maybe the user typed `Paris167`, but the PIN is really
 `Paris16` Now what? How about the following?
 
 ```csharp
